@@ -1,3 +1,4 @@
 # first-scratch-game
 
-you can find it here : https://scratch.mit.edu/projects/434713037
+you can play it here : https://scratch.mit.edu/projects/434713037
+
